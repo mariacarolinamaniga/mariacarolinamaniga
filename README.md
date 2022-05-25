@@ -8,3 +8,8 @@
 - 😄 Pronouns: she/her
 - 😜 Fun fact: How does Moses make a tea? He brews. 
 
+<div>
+  <a href="https://www.beacons.ai/mariacarolbandeira7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=buefy&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme=buefy"/>
+</div>
