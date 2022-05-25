@@ -26,7 +26,11 @@
    <img align="center" alt="maria-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img align="center" alt="maria-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
    <img align="center" alt="maria-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-   <img src="https://user-images.githubusercontent.com/106192122/170353773-5fa5858a-d64b-49c4-bee5-fc0cb22439b9.gif"/>
+   <img src="https://user-images.githubusercontent.com/106192122/170353773-5fa5858a-d64b-49c4-bee5-fc0cb22439b9.gif" />
+</div>
+  
+<div>
+<img src="https://user-images.githubusercontent.com/106192122/170353773-5fa5858a-d64b-49c4-bee5-fc0cb22439b9.gif"/>
 </div>
 
 ##
