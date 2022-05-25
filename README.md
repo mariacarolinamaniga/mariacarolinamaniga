@@ -13,8 +13,10 @@
 <div>
   <a href="https://www.beacons.ai/mariacarolbandeira7"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=buefy&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme=buefy"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme=buefy"/>
 </div>
+
+##
 
 <div>
    <img align="center" alt="maria-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -28,7 +30,7 @@
    <img align="center" alt="maria-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img align="center" alt="maria-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
    <img align="center" alt="maria-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-   <img align="right" alt="maria-anime" src=""/>
+   <img align="right" alt="maria-anime" src="picasion.com_5bdc564156524f7ba8bfeda0614d8a7b.gif"/>
 </div>
 
   
