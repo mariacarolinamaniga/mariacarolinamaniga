@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://www.beacons.ai/mariacarolbandeira7"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=gradient&show_icons=false&show_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme=gradient"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=radical&show_icons=false&show_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme=radical"/>
     
 </div>
 
