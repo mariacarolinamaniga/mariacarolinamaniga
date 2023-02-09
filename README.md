@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://www.beacons.ai/mariacarolbandeira7"/>
-    <img height="80em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=dracula&show_icons=true"/>
-    <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme-dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=dracula&show_icons=true"/>
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme-dracula"/>
     
 </div>
 
