@@ -6,7 +6,6 @@
   <a href="https://www.beacons.ai/mariacarolbandeira7"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=cobalt&show_icons=true"/>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolbandeira7&layout=compact&langs_count=16&theme-cobalt"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=mariacarolbandeira7&repo=github-readme-stats"/>
     
 </div>
 
