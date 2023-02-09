@@ -5,7 +5,7 @@
 <div>
   <a href="https://www.beacons.ai/mariacarolbandeira7"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=buefy&show_icons=true"/>
-    <img height="50px" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img height="50px" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
     
 </div>
 
