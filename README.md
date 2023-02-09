@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Maria. 👋
 
-<img align="right" alt="maria-anime" height="80" width="80" src="picasion.com_5bdc564156524f7ba8bfeda0614d8a7b.gif"/>
-
 <div>
   <a href="https://www.beacons.ai/mariacarolbandeira7"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolbandeira7&theme=buefy&show_icons=true"/>
