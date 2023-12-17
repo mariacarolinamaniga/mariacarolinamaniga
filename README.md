@@ -10,7 +10,7 @@
 ##
 
 <div>
-   <img align="center" alt="maria-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="maria-html" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" />
    <img align="center" alt="maria-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img align="center" alt="maria-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" />
    <img align="center" alt="maria-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
