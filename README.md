@@ -3,7 +3,7 @@
 ### Hi there, I'm Maria. 👋
 
 <div>
-  <a href="https://www.beacons.ai/mariacarolbandeira7"/>
+  <a href="https://www.beacons.ai/mariacarolinamaniga"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariacarolinamaniga&theme=radical&show_icons=true&show_all_commits=true"/> 
 </div>
 
